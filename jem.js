@@ -1,4 +1,5 @@
 function navigateTo(page) {
+    
    
     const contentSections = document.querySelectorAll('main');
     contentSections.forEach(section => {
