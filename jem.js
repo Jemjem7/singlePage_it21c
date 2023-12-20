@@ -7,8 +7,10 @@ function navigateTo(page) {
     });
 
 
+
+
     const selectedSection = document.getElementById(page);
     selectedSection.style.display = 'block';
 }
 
-navigateTo('home');
+navigateTo('home'); 
